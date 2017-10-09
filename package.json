@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-ui",
+  "name": "insight-united-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the unitedcoin network and build your own services with it.",
   "version": "0.4.6",
-  "repository": "git://github.com/coinshaz/insight-lite-ui.git",
+  "repository": "git://github.com/coinshaz/insight-united-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
